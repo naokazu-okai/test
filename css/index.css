@@ -1,5 +1,35 @@
-p {
+p.sub-title {
     color: aqua;
+}
+
+
+p#sub-title {
+    color:blueviolet;
+}
+
+
+.company{
+    font-weight: bold;
+    font-size: lighter;
+}
+
+
+div.box1{
+    height: 100px;
+    width: 100px;
+    background-color: royalblue;
+}
+
+div.box2{
+    height: 100px;
+    width: 100px;
+    background-color:mediumturquoise;
+}
+
+div.box3{
+    height: 100px;
+    width: 100px;
+    background-color:yellow;
 }
 
 h1 {
